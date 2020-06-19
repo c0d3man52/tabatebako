@@ -23,10 +23,10 @@ disableLanguages        = [""]
   viewMorePostsLink     = "/blog/"
   readingTime           = true
   socialShare           = ["twitter"]
-  description             = "デジモノ中毒なITライター・タバテバコの雑記ブログです。モバイル、パソコン、ネット回線などガジェット系をメインに書いていきます。"
+  description             = "デジモノ中毒なITライター・タバタ テツの雑記ブログです。モバイル、パソコン、ネット回線などガジェット系をメインに書いていきます。"
 
   [params.meta]
-    description         = "デジモノ中毒なITライター・タバテバコの雑記ブログです。モバイル、パソコン、ネット回線などガジェット系をメインに書いていきます。"
+    description         = "デジモノ中毒なITライター・タバタ テツの雑記ブログです。モバイル、パソコン、ネット回線などガジェット系をメインに書いていきます。"
     author              = "Tetsu Tabata"
     favicon             = false
     svg                 = true
@@ -43,7 +43,7 @@ disableLanguages        = [""]
 
   [params.intro]
     header                = "タバテバコ"
-    paragraph             = "デジモノ中毒なITライター・タバテバコの雑記ブログです。モバイル、パソコン、ネット回線などガジェット系をメインに書いていきます。"
+    paragraph             = "デジモノ中毒なITライター・タバタ テツの雑記ブログです。モバイル、パソコン、ネット回線などガジェット系をメインに書いていきます。"
     rssIntro              = true
     socialIntro           = true
     hideWhenSingleColumn  = false
