@@ -1,10 +1,10 @@
 # For a description of these parameters, please visit the theme wiki.
 # https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml
-baseurl                 = "https://example.com/"
+baseurl                 = "https://tabatebako.netlify.app"
 DefaultContentLanguage  = "ja"
 title                   = "タバテバコ"
 theme                   = "imperfect-slim"
-paginate                = 3
+paginate                = 20
 disqusShortname         = ""
 googleAnalytics         = ""
 pluralizeListTitles     = false
