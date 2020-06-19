@@ -5,6 +5,8 @@ description: 毎週のように無料ゲームを配信している・Epic Games
 categories:
   - games
 slug: os90ay
+images:
+  - "img/blog/os90ay.png"
 ---
 ## Epic Gamesとは？
 
