@@ -42,8 +42,8 @@ disableLanguages        = [""]
     languageMenu        = true
 
   [params.intro]
-    header                = ""
-    paragraph             = ""
+    header                = "タバテバコ"
+    paragraph             = "デジモノ中毒なITライター・タバテバコの雑記ブログです。モバイル、パソコン、ネット回線などガジェット系をメインに書いていきます。"
     rssIntro              = true
     socialIntro           = true
     hideWhenSingleColumn  = false
@@ -51,7 +51,7 @@ disableLanguages        = [""]
 
     [params.intro.pic]
       src                 = "img/main/logo.png"
-      shape               = ""
+      shape               = "circle"
       width               = ""
       alt                 = "タバテバコ"
 
