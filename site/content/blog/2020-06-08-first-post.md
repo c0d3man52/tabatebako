@@ -14,6 +14,7 @@ slug: t8078l
 
 - メイン仕事PC: カスタムMac mini
 - サブ仕事PC： MacBook 12インチ (2016)
+- ゲーミングPC: Surface Book
 - メインスマホ： Zenfone 5
 - サブスマホ： Blackberry Passport
 - 携帯回線： NTT Docomo + 楽天モバイル（旧DMMモバイル回線）
