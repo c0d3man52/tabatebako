@@ -6,12 +6,17 @@ categories:
   - blog
 slug: ce8cga
 author: タバタ テツ
-description: dGPU付きSurface BookはゲーミングPCになるか
-summary: dGPU付きSurface BookはゲーミングPCになるか
+description: dGPU付きSurface BookはゲーミングPCになるか？実際にゲーミングノートPCとして使ってみた感想をまとめました。
+summary: dGPU付きSurface BookはゲーミングPCになるか？実際にゲーミングノートPCとして使ってみた感想をまとめました。
 isCJKLanguage: true
+images:
+  - "img/blog/ce8cga.png"
 ---
 
 ## 検証したSurface Bookのスペック
+
+検証に使用したのは、筆者所有のSurface Bookで、Surface Book Performance Baseモデル。初代モデルなので、スペックが結構弱めですが、dGPUがあるモデルなので、普通のSurface Proや非ゲーミングノートPCよりかはゲーミング性能が高めです。
+
 
 |パーツ|詳細|
 |:---|:---:|
@@ -22,7 +27,6 @@ isCJKLanguage: true
 |グラフィックカード(dCPU)|GeForce GTX 965M 2GB|
 |液晶|13.5インチ 3000x2000ドット|
 
-初代モデルなので、スペックが結構弱めです。
 
 ### GeForce GTX 965Mのベンチマーク
 
