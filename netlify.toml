@@ -10,10 +10,18 @@
   command = "yarn build:preview"
 
 [[headers]]
-  for = "/*"
+  for = "*.js"
   [headers.values]
-	cache-control = '''
-	max-age=31536000,
-	no-cache,
-	no-store,
-	must-revalidate'''
+    Cache-Control = "public, max-age=604800"
+[[headers]]
+  for = "*.css"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+[[headers]]
+  for = "*.jpg"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+[[headers]]
+  for = "*.png"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
