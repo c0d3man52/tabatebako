@@ -4,7 +4,7 @@ date: 2020-12-02T01:00:00.000Z
 categories:
   - shopping
 slug: vepr46c07m
-description: 自宅回線をWiMAXから楽天モバイル+WiMAXルーターにしたら超絶快適だった件
+description: 自宅回線をWiMAXから楽天モバイル+WiMAXルーターにしたら超絶快適だったので、経緯をまとめました。
 ---
 
 ## 自宅に光回線を引かないわけ
