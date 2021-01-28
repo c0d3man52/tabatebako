@@ -4,7 +4,11 @@ date: 2020-12-02T01:00:00.000Z
 categories:
   - blog
 slug: vepr46c07m
+author: タバタ テツ
 description: HUAWEI Bluetooth スピーカー CM510を中古で格安で手に入れたのでレビューします。
+isCJKLanguage: true
+images:
+  - "img/blog/vepr46c07m-th.png"
 ---
 
 ## HUAWEI Bluetooth スピーカー CM510のスペック
