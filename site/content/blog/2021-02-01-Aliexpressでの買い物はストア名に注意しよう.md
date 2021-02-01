@@ -6,7 +6,7 @@ categories:
 tags:
   - aliexpress
 slug: dud6l6ghhy
-description: Aliexpressでの買い物はストア名に注意しよう
+description: Aliexpressでの買い物しているとは「xxx Store」「xxx Outlet」というストアに遭遇しますが、公式ストアではない可能性があるので注意が必要です。
 images:
   - '/img/blog/9i4emfdhdq-th.png'
 ---
