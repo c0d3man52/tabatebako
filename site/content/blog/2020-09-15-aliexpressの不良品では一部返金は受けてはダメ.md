@@ -3,6 +3,8 @@ title: Aliexpressの不良品は「一部返金は受けてはダメ」という
 date: 2020-09-07T00:00:00.000Z
 categories:
   - shopping
+tags:
+  - aliexpress  
 slug: dud6l6ghhy
 description: Aliexpressの不良品が発生すると、一定の割合でセラーが提案してくる「一部返金」は受けてはダメな理由と、一部返金を提案された時の対応をまとめました。
 images:

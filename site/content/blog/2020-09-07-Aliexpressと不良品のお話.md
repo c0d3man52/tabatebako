@@ -3,6 +3,8 @@ title: Aliexpressの世界と不良品のお話
 date: 2020-09-07T00:00:00.000Z
 categories:
   - shopping
+tags:
+  - aliexpress  
 slug: xkmtd9jwcy
 description: この2年くらいAliexpressでいろんな買い物をしてきたので、遭遇した不良品と、Aliexpressの不良品との付き合い方について買いました。
 images:

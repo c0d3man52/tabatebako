@@ -3,6 +3,8 @@ title: Aliexpressでバッテリーを含む商品を買うときの注意点
 date: 2020-10-16T00:00:00.000Z
 categories:
   - shopping
+tags:
+  - aliexpress  
 slug: 2lpni26wu3
 description: Aliexpressでバッテリーを含む商品を買うときの注意点をまとめました。
 images:
